@@ -1,0 +1,2 @@
+# Delta-LDM-Learning-Patient-Specific-Disease-Dynamics-with-for-Longitudinal-Imaging-Generation
+ICLR 2026: Claude responded: Learning Patient-Specific Disease Dynamics with Latent Flow Matching for Longitudinal Imaging GenerationConverting all-caps title into proper title case formatConverting all-caps title into proper title case formatLearning Patient-Specific Disease Dynamics with Latent Flow Matching for Longitudinal Imaging Generation
